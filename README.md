@@ -62,6 +62,9 @@ Representa o personagem controlado pelo jogador.
 - Possui um `Inventory`  
 - Pode `attack()` e `useItem()`
 
+<img width="236" height="1024" alt="ed80967e-4c2e-40a3-9544-9623fafae1a2" src="https://github.com/user-attachments/assets/34cf1436-596c-479a-bd7a-24bc6284ef65" />
+
+
 ---
 
 ### 🔹 `Enemy`
