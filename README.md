@@ -96,6 +96,9 @@ Gerencia a lógica do combate em turnos.
 ### 🔹 `Map`
 Mostra os locais disponíveis e pode ser expandido para exploração.  
 
+<img width="236" height="1024" alt="4ba0fe49-b587-47ea-b2c7-1327aa1ae46c" src="https://github.com/user-attachments/assets/41c29ef7-4382-4611-a0cd-5650d6a383dc" />
+
+
 ---
 
 ### 🔹 `Game`
