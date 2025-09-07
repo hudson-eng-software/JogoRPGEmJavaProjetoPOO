@@ -72,6 +72,9 @@ Representa inimigos controlados pelo computador.
 - Atacam o jogador em batalhas.  
 - Herdam de `Character`.
 
+<img width="236" height="1024" alt="d56c167f-8e2c-494d-bf8a-b66c2f130816" src="https://github.com/user-attachments/assets/2bb10f73-3fb8-4607-8587-425c0428b4bb" />
+
+
 ---
 
 ### 🔹 `Item`
@@ -163,7 +166,10 @@ Envie um Pull Request
 - [ ] Implementar sistema de missões/quests.
 
 --- 
+<p align="center">
+  <h3> 👨‍💻Autor</h3> 
+<h4> Hudson Amorim </h4>
 
-### 👨‍💻 `Autor`
-Hudson Amorim
-🔗 GitHub
+  <img width="124" height="124" alt="fa604709-5f79-45a4-8816-37fb329a62ff" src="https://github.com/user-attachments/assets/088e310e-426f-40ad-a650-1cca0ed4e5eb" />
+ 
+</p>
