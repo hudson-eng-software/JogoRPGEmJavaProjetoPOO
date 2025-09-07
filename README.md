@@ -82,11 +82,17 @@ Representa objetos utilizáveis (ex.: poções, armas).
 - Atributos: `name`, `type`, `power`  
 - Método: `applyEffect(Player player)`
 
+  <img width="224" height="224" alt="d838fc62-861e-414f-9644-e09521c6a3d3" src="https://github.com/user-attachments/assets/9b4ab706-e824-4701-8083-cce74c26f2a1" />
+
+
 ---
 
 ### 🔹 `Inventory`
 Guarda os itens do jogador.  
 - Métodos: `addItem(Item i)`, `showItems()`
+
+<img width="224" height="224" alt="f906901e-72bd-4932-8fa9-c577fa66fe8a" src="https://github.com/user-attachments/assets/73d7bc35-869f-4db9-812e-d0cbe5817ac2" />
+
 
 ---
 
@@ -170,9 +176,7 @@ Envie um Pull Request
 
 --- 
 <p align="center">
-  <h3> 👨‍💻Autor</h3> 
-<h4> Hudson Amorim </h4>
-
-  <img width="124" height="124" alt="fa604709-5f79-45a4-8816-37fb329a62ff" src="https://github.com/user-attachments/assets/088e310e-426f-40ad-a650-1cca0ed4e5eb" />
+  <h3> 👨‍💻Autor:  Hudson Amorim </h3> 
+ <img width="124" height="124" alt="fa604709-5f79-45a4-8816-37fb329a62ff" src="https://github.com/user-attachments/assets/088e310e-426f-40ad-a650-1cca0ed4e5eb" />
  
 </p>
