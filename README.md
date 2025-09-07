@@ -94,6 +94,9 @@ Guarda os itens do jogador.
 Gerencia a lógica do combate em turnos.  
 - Método: `fight(Player player, Enemy enemy)`
 
+<img width="224" height="224" alt="2f9f6eff-fba5-4014-af81-3196c081c71a" src="https://github.com/user-attachments/assets/3bc2aa09-3b21-4a1b-bece-7dd19f6eb491" />
+
+
 ---
 
 ### 🔹 `Map`
