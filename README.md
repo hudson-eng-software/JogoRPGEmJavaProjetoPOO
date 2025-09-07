@@ -1,10 +1,11 @@
 # 🎮 Jogo RPG em Java – Projeto POO Progresso: [█-------] 10%
-<img width="536" height="1024" alt="ChatGPT Image 6 de set  de 2025, 22_43_17" src="https://github.com/user-attachments/assets/16f54ed9-b059-4018-bef5-cb2764e7ed8c" />
 
 ![Java](https://img.shields.io/badge/Java-17-orange?logo=java) 
 ![POO](https://img.shields.io/badge/Paradigma-POO-blue) 
 ![Status](https://img.shields.io/badge/Status-Protótipo-green) 
 ![Contribuições](https://img.shields.io/badge/Contribuições-Bem%20vindo-brightgreen)
+
+<img width="536" height="1024" alt="ChatGPT Image 6 de set  de 2025, 22_43_17" src="https://github.com/user-attachments/assets/16f54ed9-b059-4018-bef5-cb2764e7ed8c" />
 
 
 ## 📖 Visão Geral
