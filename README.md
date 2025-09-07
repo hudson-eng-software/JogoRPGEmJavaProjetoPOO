@@ -1,4 +1,4 @@
-# 🎮 Jogo RPG em Java – Projeto POO Progresso: [█-------] 10%
+# 🎮 Jogo RPG em Java – Projeto POO 
 
 ![Java](https://img.shields.io/badge/Java-17-orange?logo=java) 
 ![POO](https://img.shields.io/badge/Paradigma-POO-blue) 
